@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Apple",
+        "price": "120Tk/kg",
+        "discount": "10%",
+        "rating": "4.8"
+    },
+    {
+        "name": "Mango",
+        "price": "140Tk/kg",
+        "discount": "16%",
+        "rating": "4.4"
+    },
+    {
+        "name": "Banana",
+        "price": "80Tk/dzn",
+        "discount": "16%",
+        "rating": "4.2"
+    },
+    {
+        "name": "Goava",
+        "price": "60Tk/kg",
+        "discount": "14%",
+        "rating": "4.8"
+    },
+    {
+        "name": "Pinapple",
+        "price": "90Tk/psc",
+        "discount": "12%",
+        "rating": "4.6"
+    }
+]
